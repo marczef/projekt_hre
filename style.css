@@ -1,9 +1,13 @@
+body {
+    font-family: 'Forum', cursive;
+
+}
+
 
 #container {
     width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    font-family: 'Source Serif 4', sans-serif;
     font-size: 14pt;
 }
 
@@ -15,9 +19,14 @@
 }
 
 #menu {
+    min-height: 25px;
     text-align: center;
     background-color: #ff073dde;
     color: white;
+    display: flex;
+	justify-content: center;
+	align-items: center;
+    
 }
 
 #main {
@@ -29,4 +38,19 @@
     padding:10px;
     text-align: center;
     background-color: lightgrey;
+}
+
+.menu_button {
+    float: left;
+    min-width: 50px;
+    height: 25px;
+    font-size: 18px;
+    padding: 10px;
+    border-right: 2px solid #c01319;
+
+}
+
+.menu_button:hover {
+    background-color: #c01319;
+    cursor: pointer;
 }
