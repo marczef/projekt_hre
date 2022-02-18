@@ -38,6 +38,8 @@
                 
                     <input type="checkbox" id="odp2" name="odp2" value="Odp2">
                     <label for="vehicle2"> Odpowiedz 2</label><br>
+
+                    <input type="submit" value="następne pytanie">
                 
                 </form> 
 
