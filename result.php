@@ -31,7 +31,22 @@
 
             <div id="main">
 
-                <a href="questions.html">zacznij</a>
+                <?php
+
+                echo "cos cos";
+
+                    if(isset($_POST['odp'])
+                    {
+                        $odp=$_POST['odp'];
+
+                        echo "cos";
+                    }
+
+                    echo "odpowiedz $odp";
+
+                ?>
+
+                <a href="index.html">wróć do menu</a>
                 
             </div>
 
