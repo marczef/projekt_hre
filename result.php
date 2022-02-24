@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
     <head>
         <link href="https://fonts.googleapis.com/css2?family=Forum&display=swap" rel="stylesheet"> 
@@ -33,16 +33,17 @@
 
                 <?php
 
-                echo "cos cos";
-
-                    if(isset($_POST['odp'])
+                    if(isset($_POST['submit']))
                     {
-                        $odp=$_POST['odp'];
-
-                        echo "cos";
+                        if(!empty($_POST['val'])) 
+                        {
+                            echo '  ' . $_POST['val'];
+                        } 
+                        else 
+                        {
+                            echo 'Please select the value.';
+                        }
                     }
-
-                    echo "odpowiedz $odp";
 
                 ?>
 

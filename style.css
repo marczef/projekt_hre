@@ -1,8 +1,8 @@
-body {
+*{
+    padding:0;
+    margin:0;
     font-family: 'Forum', cursive;
-
-}
-
+    }
 
 #container {
     width: 1000px;
@@ -54,3 +54,5 @@ body {
     background-color: #c01319;
     cursor: pointer;
 }
+
+
