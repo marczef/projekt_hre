@@ -8,26 +8,8 @@
         <title>QUIZ</title>
 
         <link type="text/css"  rel="stylesheet" href="style.css" />
+        <script src="functions.js"></script> 
 
-        <script type="text/javascript">
-
-            function checkButton() {  
-
-                var getSelectedValue = document.querySelector(   
-                    'input[name="val"]:checked');   
-                    
-                if(getSelectedValue != null) {   
-                    document.getElementById("results").innerHTML   
-                        = getSelectedValue.value   
-                        + " points";   
-                }   
-                else {   
-                    document.getElementById("results").innerHTML   
-                        = "error"; 
-                } 
-            }
-
-        </script>
     </head>
     <body>
 
@@ -53,7 +35,7 @@
 
                 Pytanie 1: 
 
-                <form>
+                <div id="queast">
 
                     <label>
                         <input type="radio" name="val" value="2">Bardzo
@@ -71,7 +53,7 @@
 
 
 
-                </form> 
+                </div> 
                 <div id="results" style= "color:green"> </div>  
 
                 <a href="index.html">wróć</a>
