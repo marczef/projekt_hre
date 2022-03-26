@@ -1,0 +1,9 @@
+Pytania do quizu:
+
+
+Pytanie:
+1. Zgadzam się
+2. nie wiem
+3. Nie zgadzam się
+
+Jakie spektrum - jaka odpowiedz ile punktow
