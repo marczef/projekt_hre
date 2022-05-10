@@ -1,9 +1,34 @@
 Pytania do quizu:
-
+pytania do Spektrum: Praktyczność Idealizm
+w sytuacjach problemowych moje zasady są najważniejsze
+nie zmieniam moich idei i reguł nawet jeśli są nie praktyczne
+trzymam się swego zdania do upadłego
+Pytania do spektrum: Indywidualizm Kolektywizm
+w kupie raźniej
+grupa tworzy wspólny organizm
+jestem inny pod każdym względem od każdego
+Pytania do spektrum: Współpraca Samodzielnośc
+wolę pracować w grupie niż samemu
+gdy jest jakiś problem zawsze najpierw chcę go rozwiązać samemu
+nie boję się zapytać innych o pomoc nawet jeśli potrafię daną rzecz zrobić samemu
+Pytania do spektrum: Władza Posłuszeństwo
 
 Pytanie:
-1. Zgadzam się
-2. nie wiem
-3. Nie zgadzam się
-
+1. zdecydowanie zgadzam się
+2. Zgadzam się
+3. nie wiem
+4. Nie zgadzam się
+5.zdecydowanie się nie zgadzam
 Jakie spektrum - jaka odpowiedz ile punktow
+
+Defnicje pojęć:
+Praktyczność
+Idealizm
+Indywidualizm
+Kolektywizm
+Współpraca
+Samodzielność
+Władza 
+Posłuszeństwo
+Asertywność
+Uległość
